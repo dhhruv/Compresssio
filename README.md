@@ -54,6 +54,7 @@ pause
 
 Now run the Batch Script (.bat file) from any path you want.
 
+
 ## Important Note:
 
 -	**The limit you'll have at first is of 500 images per month on the Free plan. You can change this according to your requirement at [tinypng.com/dashboard/api](https://tinypng.com/dashboard/api)**
