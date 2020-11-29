@@ -56,6 +56,6 @@ Now run the Batch Script (.bat file) from any path you want.
 
 ## Important Note:
 
-**Remember the limit of 500 images per month on the free plan. You can change this at [tinypng.com/dashboard/api](https://tinypng.com/dashboard/api)**
-**This Script is just a Prototype so Metadata is not stored in the Compressed Images from the Original Images.**
-**The Authors will not be responsible for any kind of loss of data so it is essential to have a Backup of Original Data placed in the Input Folder. Read the [LICENSE](https://github.com/dhhruv/Compresssio/blob/master/LICENSE) for more information.**
+-	**Remember the limit of 500 images per month on the free plan. You can change this at [tinypng.com/dashboard/api](https://tinypng.com/dashboard/api)**
+-	**This Script is just a Prototype so Metadata is not stored in the Compressed Images from the Original Images.**
+-	**The Authors will not be responsible for any kind of loss of data so it is essential to have a Backup of Original Data placed in the Input Folder. Read the [LICENSE](https://github.com/dhhruv/Compresssio/blob/master/LICENSE) for more information.**
