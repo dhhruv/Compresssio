@@ -43,7 +43,7 @@ pip install -r requirements.txt
 3. In the `USER_INPUT_PATH` field add the path of the directory with original images (images to be compressed).
 4. In the `USER_OUTPUT_PATH` field add the path of the directory with compressed files (where the compressed images will be saved).
 
-## Easy way to use: (Windows) (Optional)
+## Easy way to use: (Windows)
 
 Create `compression.bat` file with:
 ```
