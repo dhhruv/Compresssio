@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72680045/100545837-fbb54e80-3283-11eb-92ce-c82ed48f19e9.png">
-  <h2 align="center" style="margin-top: -4px !important;">Streamline/Optimize your Images to Save lots of storage space...</h2>
+  <h2 align="center" style="margin-top: -4px !important;">Streamline/Optimize your Images to save storage space...</h2>
   <p align="center">
     <a href="https://github.com/dhhruv/Compresssio/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-blue.svg">
