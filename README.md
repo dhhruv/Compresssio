@@ -28,7 +28,7 @@ For instance we create a virtual environment named 'venv'.
 ```
 pip install virtualenv
 python -m virtualenv venv
-venv\bin\activate.bat
+venv\Scripts\activate.bat
 ```
 
 4. Install dependencies
